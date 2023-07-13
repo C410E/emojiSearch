@@ -5,6 +5,7 @@ import searchInput from "./searchInput";
 import EmojiResults from "./EmojiResults";
 import filterEmoji from "./filterEmoji";
 
+//teste
 export default class App extends PureComponent {
    constructor(props) {
     super(props);
